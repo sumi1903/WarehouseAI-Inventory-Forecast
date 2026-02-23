@@ -99,7 +99,7 @@ How to Run the Project
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/warehouse-ai-demand-forecasting.git
+git clone https://github.com/sumi1903/WarehouseAI-Inventory-Forecast.git
 cd warehouse-ai-demand-forecasting
 
 Create virtual environment
